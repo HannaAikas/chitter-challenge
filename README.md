@@ -1,6 +1,12 @@
 Project Update - As at 19 Aug 2019
 =================
 
+Done to date:
+-------
+* Implemented first user story, rspec green
+* Next up: Test ride by viewing app online
+* Then: Create a database to store the peeps and link this database to the app
+
 How to use / test this app - Do the following:
 -------
 * Clone the repo from Github (https://github.com/HannaAikas/chitter-challenge.git)
