@@ -1,0 +1,10 @@
+<h1>Chitter</h1>
+<ul>
+  <% @all_peeps.each do |peep| %>
+    <li><%= peep %></li>
+  <% end %>
+</ul>
+
+<form action="/new_peep" method="get">
+  <input type="submit" value="Post a Peep!"/>
+</form>
