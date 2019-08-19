@@ -1,3 +1,33 @@
+Project Update - As at 19 Aug 2019
+=================
+
+How to use / test this app - Do the following:
+-------
+* Clone the repo from Github (https://github.com/HannaAikas/chitter-challenge.git)
+* Navigate into the folder via your Terminal
+* Install dependencies by doing `bundle`
+* If you get an error message about your Ruby version, do `rvm use 2.5.0`
+* Run the tests using `rspec`
+* See the website by running `rackup`
+
+User story 1:
+-------
+`As a Maker`
+`So that I can let people know what I am doing`  
+`I want to post a message (peep) to chitter`
+
+Domain model:
+
+![Domain_Model](./images/Chitter_Domain_Model.png)
+
+Further functionality yet to be implemented:
+-------
+See list of other user stories in below instructions
+
+
+ORIGINAL INSTRUCTIONS FROM MAKERS:
+=================
+
 Chitter Challenge
 =================
 
